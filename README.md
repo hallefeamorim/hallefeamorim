@@ -1,3 +1,5 @@
 # exemplo-git-parte2
 
-Alguma coisagit remote add origin 
+Alguma coisa
+
+Texto alterado na branch principal (main)
